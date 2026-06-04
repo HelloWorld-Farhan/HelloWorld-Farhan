@@ -231,22 +231,6 @@ Production-ready Android messaging application with real-time sync, push notific
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=HelloWorld-Farhan&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=94a3b8&include_all_commits=true&count_private=true"/>
-&nbsp;
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HelloWorld-Farhan&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8&langs_count=8"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=HelloWorld-Farhan&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=38bdf8&ring=38bdf8&fire=f97316&currStreakLabel=38bdf8"/>
-
-</div>
-
----
-
 ## 🎓 Education
 
 | Degree | Institution | Score | Year |
