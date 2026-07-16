@@ -12,10 +12,6 @@
 &nbsp;
 <img src="https://img.shields.io/github/followers/HelloWorld-Farhan?label=Followers&style=for-the-badge&color=facc15"/>
 
-<br/><br/>
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
 </div>
 
 ---
@@ -152,20 +148,15 @@ Maintaining a strong **8.21 / 10 CGPA** in B.Tech — Artificial Intelligence & 
 
 ---
 
-## 📊 GitHub Stats
+## ⚡ Currently Building
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=HelloWorld-Farhan&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=facc15&icon_color=c084fc&text_color=e2e8f0" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=HelloWorld-Farhan&theme=github-dark-blue&hide_border=true&background=000000&stroke=c084fc&ring=facc15&fire=facc15&currStreakLabel=facc15" width="48%"/>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HelloWorld-Farhan&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=facc15&text_color=e2e8f0" width="48%"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&pause=1500&color=C084FC&center=true&vCenter=true&width=650&lines=%F0%9F%94%A8+Sharpening+DSA+skills+on+LeetCode+daily;%F0%9F%93%B1+Exploring+on-device+ML+for+Android;%F0%9F%9A%80+Preparing+for+SDE+%2F+ML+interviews;%F0%9F%92%A1+Always+shipping+something+new" alt="Currently building"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=HelloWorld-Farhan&theme=react-dark&hide_border=true&bg_color=000000&color=facc15&line=c084fc&point=ffffff" width="97%"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="55%"/>
 
 </div>
 
