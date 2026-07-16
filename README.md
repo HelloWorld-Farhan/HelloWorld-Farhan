@@ -1,16 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,25:1a0b2e,50:16062e,75:0a0118,100:000000&height=230&section=header&text=Farhan%20Khalid&fontSize=66&fontColor=facc15&fontAlignY=38&desc=Android%20Developer%20%E2%80%A2%20ML%20Engineer%20%E2%80%A2%20Full-Stack&descSize=18&descColor=c084fc&descAlignY=60&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,25:312e81,50:1e3a5f,75:0f766e,100:134e4a&height=230&section=header&text=Farhan%20Khalid&fontSize=66&fontColor=fb923c&fontAlignY=38&desc=Android%20Developer%20%E2%80%A2%20ML%20Engineer%20%E2%80%A2%20Full-Stack&descSize=18&descColor=5eead4&descAlignY=60&animation=fadeIn"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=FACC15&center=true&vCenter=true&width=700&lines=Shipped+ISLens+to+Google+Play+Store+%F0%9F%9A%80;Real-Time+Indian+Sign+Language+AI+%F0%9F%A4%9F;Android+%7C+TensorFlow+Lite+%7C+MediaPipe;150%2B+LeetCode+Problems+Solved+%F0%9F%92%BB;2026+B.Tech+AI+%26+Data+Science+Graduate" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=2DD4BF&center=true&vCenter=true&width=700&lines=Shipped+ISLens+to+Google+Play+Store+%F0%9F%9A%80;Real-Time+Indian+Sign+Language+AI+%F0%9F%A4%9F;Android+%7C+TensorFlow+Lite+%7C+MediaPipe;150%2B+LeetCode+Problems+Solved+%F0%9F%92%BB;2026+B.Tech+AI+%26+Data+Science+Graduate" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=HelloWorld-Farhan&label=Profile+Views&color=c084fc&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=HelloWorld-Farhan&label=Profile+Views&color=fb923c&style=for-the-badge"/>
 &nbsp;
-<img src="https://img.shields.io/github/followers/HelloWorld-Farhan?label=Followers&style=for-the-badge&color=facc15"/>
+<img src="https://img.shields.io/github/followers/HelloWorld-Farhan?label=Followers&style=for-the-badge&color=2dd4bf"/>
 
 </div>
 
@@ -63,7 +63,7 @@ fun_fact:     "I built an AI that lets hands speak 🤟 — live on Play Store"
 <div align="center">
 
 <a href="https://www.credly.com/badges/8361af42-fae9-4c31-be3d-d69a42f265cb">
-  <img src="https://img.shields.io/badge/SAP_Certified_Back--End_Developer-ABAP_Cloud_%7C_C__ABAPD__2601-000000?style=for-the-badge&logo=sap&logoColor=facc15"/>
+  <img src="https://img.shields.io/badge/SAP_Certified_Back--End_Developer-ABAP_Cloud_%7C_C__ABAPD__2601-134e4a?style=for-the-badge&logo=sap&logoColor=fb923c"/>
 </a>
 
 </div>
@@ -108,55 +108,55 @@ Maintaining a strong **8.21 / 10 CGPA** in B.Tech — Artificial Intelligence & 
 
 ---
 
+## ⚡ Currently Building
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&pause=1500&color=FB923C&center=true&vCenter=true&width=650&lines=%F0%9F%94%A8+Sharpening+DSA+skills+on+LeetCode+daily;%F0%9F%93%B1+Exploring+on-device+ML+for+Android;%F0%9F%9A%80+Preparing+for+SDE+%2F+ML+interviews;%F0%9F%92%A1+Always+shipping+something+new" alt="Currently building"/>
+
+<br/><br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="55%"/>
+
+</div>
+
+---
+
 ## 🛠️ Tech Stack
 
 <div align="center">
 
 **Languages**
 
-![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=facc15)
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=c084fc)
-![Dart](https://img.shields.io/badge/Dart-000000?style=for-the-badge&logo=dart&logoColor=00c2ff)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=facc15)
-![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=c084fc)
-![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=00c2ff)
+![Java](https://img.shields.io/badge/Java-1e3a5f?style=for-the-badge&logo=openjdk&logoColor=fb923c)
+![Python](https://img.shields.io/badge/Python-1e3a5f?style=for-the-badge&logo=python&logoColor=5eead4)
+![Dart](https://img.shields.io/badge/Dart-1e3a5f?style=for-the-badge&logo=dart&logoColor=2dd4bf)
+![JavaScript](https://img.shields.io/badge/JavaScript-1e3a5f?style=for-the-badge&logo=javascript&logoColor=fb923c)
+![C++](https://img.shields.io/badge/C++-1e3a5f?style=for-the-badge&logo=c%2B%2B&logoColor=5eead4)
+![SQL](https://img.shields.io/badge/SQL-1e3a5f?style=for-the-badge&logo=mysql&logoColor=2dd4bf)
 
 **Mobile & AI/ML**
 
-![Android](https://img.shields.io/badge/Android_SDK-000000?style=for-the-badge&logo=android&logoColor=3ddc84)
-![Flutter](https://img.shields.io/badge/Flutter-000000?style=for-the-badge&logo=flutter&logoColor=02569B)
-![TensorFlow Lite](https://img.shields.io/badge/TensorFlow_Lite-000000?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-000000?style=for-the-badge&logo=google&logoColor=facc15)
-![OpenCV](https://img.shields.io/badge/OpenCV-000000?style=for-the-badge&logo=opencv&logoColor=c084fc)
+![Android](https://img.shields.io/badge/Android_SDK-134e4a?style=for-the-badge&logo=android&logoColor=3ddc84)
+![Flutter](https://img.shields.io/badge/Flutter-134e4a?style=for-the-badge&logo=flutter&logoColor=5eead4)
+![TensorFlow Lite](https://img.shields.io/badge/TensorFlow_Lite-134e4a?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-134e4a?style=for-the-badge&logo=google&logoColor=fb923c)
+![OpenCV](https://img.shields.io/badge/OpenCV-134e4a?style=for-the-badge&logo=opencv&logoColor=2dd4bf)
 
 **Backend & Cloud**
 
-![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=339933)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase&logoColor=facc15)
-![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=47A248)
-![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-312e81?style=for-the-badge&logo=nodedotjs&logoColor=5eead4)
+![Express.js](https://img.shields.io/badge/Express.js-312e81?style=for-the-badge&logo=express&logoColor=fb923c)
+![Firebase](https://img.shields.io/badge/Firebase-312e81?style=for-the-badge&logo=firebase&logoColor=facc15)
+![MongoDB](https://img.shields.io/badge/MongoDB-312e81?style=for-the-badge&logo=mongodb&logoColor=47A248)
+![React](https://img.shields.io/badge/React-312e81?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 **Tools & Practices**
 
-![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05033)
-![Android Studio](https://img.shields.io/badge/Android_Studio-000000?style=for-the-badge&logo=androidstudio&logoColor=3ddc84)
-![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github&logoColor=facc15)
-![JUnit](https://img.shields.io/badge/JUnit_5-000000?style=for-the-badge&logo=junit5&logoColor=25A162)
-
-</div>
-
----
-
-## ⚡ Currently Building
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&pause=1500&color=C084FC&center=true&vCenter=true&width=650&lines=%F0%9F%94%A8+Sharpening+DSA+skills+on+LeetCode+daily;%F0%9F%93%B1+Exploring+on-device+ML+for+Android;%F0%9F%9A%80+Preparing+for+SDE+%2F+ML+interviews;%F0%9F%92%A1+Always+shipping+something+new" alt="Currently building"/>
-
-<br/><br/>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="55%"/>
+![Git](https://img.shields.io/badge/Git-1e1b4b?style=for-the-badge&logo=git&logoColor=fb923c)
+![Android Studio](https://img.shields.io/badge/Android_Studio-1e1b4b?style=for-the-badge&logo=androidstudio&logoColor=3ddc84)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-1e1b4b?style=for-the-badge&logo=github&logoColor=5eead4)
+![JUnit](https://img.shields.io/badge/JUnit_5-1e1b4b?style=for-the-badge&logo=junit5&logoColor=25A162)
 
 </div>
 
@@ -175,15 +175,15 @@ Maintaining a strong **8.21 / 10 CGPA** in B.Tech — Artificial Intelligence & 
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Farhan_Khalid-000000?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/farhan-khalid-117514259/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Farhan_Khalid-1e3a5f?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/farhan-khalid-117514259/)
 &nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-farhankhalid17968@gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=D14836)](mailto:farhankhalid17968@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-farhankhalid17968@gmail.com-1e3a5f?style=for-the-badge&logo=gmail&logoColor=D14836)](mailto:farhankhalid17968@gmail.com)
 &nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-HelloWorld--Farhan-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HelloWorld-Farhan)
+[![GitHub](https://img.shields.io/badge/GitHub-HelloWorld--Farhan-1e3a5f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HelloWorld-Farhan)
 &nbsp;
-[![Credly](https://img.shields.io/badge/Credly-SAP_ABAP_Cloud_Cert-000000?style=for-the-badge&logo=credly&logoColor=FF6B00)](https://www.credly.com/badges/8361af42-fae9-4c31-be3d-d69a42f265cb)
+[![Credly](https://img.shields.io/badge/Credly-SAP_ABAP_Cloud_Cert-1e3a5f?style=for-the-badge&logo=credly&logoColor=FF6B00)](https://www.credly.com/badges/8361af42-fae9-4c31-be3d-d69a42f265cb)
 &nbsp;
-[![Play Store](https://img.shields.io/badge/Google_Play-ISLens-000000?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.islvision.islens)
+[![Play Store](https://img.shields.io/badge/Google_Play-ISLens-1e3a5f?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.islvision.islens)
 
 </div>
 
@@ -195,6 +195,6 @@ Maintaining a strong **8.21 / 10 CGPA** in B.Tech — Artificial Intelligence & 
 
 *Android · Machine Learning · Full-Stack Development*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,25:0a0118,50:16062e,75:1a0b2e,100:000000&height=110&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:134e4a,25:0f766e,50:1e3a5f,75:312e81,100:1e1b4b&height=110&section=footer"/>
 
 </div>
