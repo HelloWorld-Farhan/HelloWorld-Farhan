@@ -1,5 +1,5 @@
 ﻿<div align="center">
   <a href="https://farhan-khalid-portfolio.vercel.app/" target="_blank">
-    <img src="profile_vertical.svg" width="100%" alt="Farhan Khalid Java OOP Profile" style="max-width: 100%; border: none; outline: none;" />
+    <img src="profile_vertical.svg?v=4" width="100%" alt="Farhan Khalid Java OOP Profile" style="max-width: 100%; border: none; outline: none;" />
   </a>
 </div>
